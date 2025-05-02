@@ -1,3 +1,9 @@
+"""
+This page has code to print a plot showing the probabilities that
+at least two people in a group have the same birthday, for a given 
+number of people.
+"""
+
 import matplotlib.pyplot as plt
 import math
 import numpy as np
